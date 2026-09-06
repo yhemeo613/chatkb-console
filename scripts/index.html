@@ -1,0 +1,196 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>聊天知识库 · 高情商回复助手</title>
+<style>
+  * { box-sizing: border-box; margin: 0; padding: 0; }
+  body { font-family: "Microsoft YaHei", system-ui, sans-serif; background: #f2f3f5; color: #1f2329; padding: 24px; }
+  header { max-width: 1100px; margin: 0 auto 20px; display: flex; align-items: baseline; gap: 12px; }
+  header h1 { font-size: 22px; }
+  header span { color: #8a919f; font-size: 13px; }
+  .wrap { max-width: 1100px; margin: 0 auto; display: grid; grid-template-columns: 1fr 320px; gap: 16px; align-items: start; }
+  .card { background: #fff; border-radius: 12px; padding: 20px; box-shadow: 0 1px 3px rgba(0,0,0,.06); }
+  .card h2 { font-size: 15px; margin-bottom: 12px; color: #333; }
+  label { display: block; font-size: 12px; color: #8a919f; margin: 10px 0 4px; }
+  textarea, input, select { width: 100%; border: 1px solid #e1e4e8; border-radius: 8px; padding: 9px 10px; font-size: 14px; font-family: inherit; background: #fafbfc; }
+  textarea:focus, input:focus, select:focus { outline: none; border-color: #07c160; background: #fff; }
+  textarea { resize: vertical; }
+  #message { min-height: 72px; }
+  #history { min-height: 54px; }
+  .row { display: flex; gap: 10px; margin-top: 14px; }
+  .row > * { flex: 1; }
+  button { border: none; border-radius: 8px; padding: 10px 16px; font-size: 14px; cursor: pointer; font-family: inherit; }
+  .btn-primary { background: #07c160; color: #fff; flex: 2; }
+  .btn-primary:hover { background: #06ad56; }
+  .btn-primary:disabled { background: #9fd9bb; cursor: wait; }
+  .btn-ghost { background: #f2f3f5; color: #4e5969; }
+  .btn-ghost:hover { background: #e5e6eb; }
+  .btn-ghost:disabled { color: #b4bac4; cursor: wait; }
+  .loading { display: none; margin-top: 14px; color: #07c160; font-size: 13px; }
+  .loading::after { content: "…"; animation: dots 1s infinite steps(4); }
+  @keyframes dots { 0% {content:""} 25%{content:"." } 50%{content:".."} 75%{content:"..."} }
+  .reply { margin-top: 14px; display: flex; flex-direction: column; gap: 8px; }
+  .bubble { display: flex; align-items: center; gap: 8px; background: #f7f8fa; border: 1px solid #eceef1; border-radius: 10px; padding: 10px 12px; }
+  .bubble .tag { flex-shrink: 0; font-size: 11px; color: #07c160; background: #e7f7ee; border-radius: 4px; padding: 2px 6px; }
+  .bubble p { flex: 1; font-size: 14px; line-height: 1.6; white-space: pre-wrap; }
+  .copy { flex-shrink: 0; background: none; border: 1px solid #d8dbe0; color: #4e5969; font-size: 12px; padding: 4px 10px; border-radius: 6px; }
+  .copy:hover { border-color: #07c160; color: #07c160; }
+  details { margin-top: 14px; font-size: 13px; }
+  details summary { cursor: pointer; color: #4e5969; }
+  details pre { white-space: pre-wrap; word-break: break-word; background: #f7f8fa; border-radius: 8px; padding: 12px; margin-top: 8px; font-size: 12px; line-height: 1.7; color: #4e5969; max-height: 320px; overflow: auto; }
+  .side .stat { display: flex; justify-content: space-between; font-size: 13px; padding: 6px 0; color: #4e5969; }
+  .side .stat b { color: #1f2329; }
+  .filelist { margin-top: 8px; max-height: 200px; overflow: auto; font-size: 12.5px; }
+  .filelist div { padding: 3px 0; color: #4e5969; display: flex; gap: 6px; align-items: center; }
+  .filelist .k { flex-shrink: 0; font-size: 11px; border-radius: 4px; padding: 1px 5px; }
+  .k.personal { color: #d46b08; background: #fff3e0; }
+  .k.book { color: #1668dc; background: #e8f1ff; }
+  .empty { color: #b4bac4; font-size: 12.5px; padding: 6px 0; }
+  #ingestlog { display: none; margin-top: 10px; font-size: 12px; white-space: pre-wrap; background: #f7f8fa; border-radius: 8px; padding: 10px; color: #4e5969; max-height: 160px; overflow: auto; }
+  .side .row { margin-top: 12px; }
+  @media (max-width: 900px) { .wrap { grid-template-columns: 1fr; } }
+</style>
+</head>
+<body>
+<header>
+  <h1>聊天知识库</h1><span>本地运行 · 嵌入 bge-m3 · 全部数据不出本机</span>
+</header>
+
+<div class="wrap">
+  <!-- 左：生成回复 -->
+  <div class="card">
+    <h2>生成回复</h2>
+    <label>对方发来的消息 *</label>
+    <textarea id="message" placeholder="粘贴或输入对方的消息"></textarea>
+    <div class="row">
+      <div>
+        <label>对方称呼（可选）</label>
+        <input id="person" list="persons" placeholder="如：老妈、同事小王">
+        <datalist id="persons"></datalist>
+      </div>
+      <div>
+        <label>模型</label>
+        <select id="model"></select>
+      </div>
+    </div>
+    <label>之前的聊天 / 背景（可选）</label>
+    <textarea id="history" placeholder="例：他上周刚问我借过一次钱，我拖过去了"></textarea>
+    <div class="row">
+      <button class="btn-primary" id="btnDraft" onclick="ask(true)">生成候选回复</button>
+      <button class="btn-ghost" id="btnSearch" onclick="ask(false)">只检索资料</button>
+    </div>
+    <div class="loading" id="loading">正在检索知识库并生成</div>
+    <div class="reply" id="reply"></div>
+    <details id="srcWrap" style="display:none">
+      <summary>检索依据（AI 回复引用了这些）</summary>
+      <pre id="src"></pre>
+    </details>
+  </div>
+
+  <!-- 右：知识库管理 -->
+  <div class="side">
+    <div class="card">
+      <h2>知识库状态</h2>
+      <div class="stat"><span>已入库文本块</span><b id="stChunks">-</b></div>
+      <div class="stat"><span>Ollama 模型</span><b id="stModels">-</b></div>
+      <div class="stat"><span>上次入库</span><b id="stIngest">-</b></div>
+      <div class="filelist" id="filelist"></div>
+      <div class="row">
+        <button class="btn-ghost" id="btnIngest" onclick="ingest()" style="flex:1">重新入库（书籍/档案有改动后）</button>
+      </div>
+      <div id="ingestlog"></div>
+    </div>
+    <div class="card" style="margin-top:16px">
+      <h2>使用提示</h2>
+      <div style="font-size:12.5px; color:#8a919f; line-height:1.8">
+        书籍放进 <b>knowledge/</b>，人设和关系档案写在 <b>personal/</b>（每个常聊的人一份，frontmatter 里 person: 写称呼）。
+        改完点"重新入库"。回复会自动带上你的人设、雷区和对应关系档案，引用书籍里的沟通技巧。
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+const $ = id => document.getElementById(id);
+
+async function refreshStatus() {
+  const s = await (await fetch("/api/status")).json();
+  $("stChunks").textContent = s.chunks;
+  $("stModels").textContent = s.models.length ? s.models.join("、") : "Ollama 未启动";
+  $("stIngest").textContent = s.ingest_running ? "入库中…" : (s.done_at || "—");
+  $("persons").innerHTML = s.persons.map(p => `<option value="${p}">`).join("");
+  $("model").innerHTML = s.models.map(m => `<option ${m.startsWith("qwen") ? "selected" : ""}>${m}</option>`).join("");
+  const fl = $("filelist");
+  fl.innerHTML = s.files.length
+    ? s.files.map(f => `<div><span class="k ${f.kind}">${f.kind === "personal" ? "档案" : "书籍"}</span>${f.file}</div>`).join("")
+    : `<div class="empty">knowledge/ 和 personal/ 还是空的</div>`;
+  $("btnIngest").disabled = s.ingest_running;
+}
+
+async function ask(draft) {
+  const message = $("message").value.trim();
+  if (!message) { $("message").focus(); return; }
+  $("loading").style.display = "block";
+  $("reply").innerHTML = ""; $("srcWrap").style.display = "none";
+  $("btnDraft").disabled = $("btnSearch").disabled = true;
+  try {
+    const r = await fetch("/api/ask", {
+      method: "POST", headers: { "Content-Type": "application/json" },
+      body: JSON.stringify({
+        message, draft,
+        person: $("person").value.trim(),
+        history: $("history").value.trim(),
+        model: $("model").value
+      })
+    });
+    const d = await r.json();
+    if (d.error) { $("reply").innerHTML = `<div class="bubble"><p>❌ ${d.error}</p></div>`; return; }
+    if (d.reply) {
+      const lines = d.reply.split("\n").filter(l => l.trim());
+      const items = lines.length >= 2 ? lines : [d.reply];
+      const tags = ["稳妥得体", "幽默拉近距离", "简短直接"];
+      $("reply").innerHTML = items.map((t, i) =>
+        `<div class="bubble"><span class="tag">${tags[i] || "候选 " + (i + 1)}</span><p>${esc(t.replace(/^\d[.、]\s*/, ""))}</p>
+         <button class="copy" onclick="copyText(this)">复制</button></div>`).join("");
+    }
+    const src = [...(d.personal || []), ...(d.books || [])].join("\n\n———\n\n");
+    if (src) { $("src").textContent = src || "（没有检索到资料）"; $("srcWrap").style.display = "block"; }
+  } catch (e) {
+    $("reply").innerHTML = `<div class="bubble"><p>❌ 请求失败：${esc(String(e))}。确认 Ollama 已启动（ollama serve）。</p></div>`;
+  } finally {
+    $("loading").style.display = "none";
+    $("btnDraft").disabled = $("btnSearch").disabled = false;
+  }
+}
+
+async function ingest() {
+  await fetch("/api/ingest", { method: "POST" });
+  $("ingestlog").style.display = "block";
+  $("ingestlog").textContent = "入库中，请稍候…";
+  $("btnIngest").disabled = true;
+  const timer = setInterval(async () => {
+    const s = await (await fetch("/api/status")).json();
+    if (!s.ingest_running) {
+      clearInterval(timer);
+      $("btnIngest").disabled = false;
+      const log = await (await fetch("/api/ingestlog")).text().catch(() => "");
+      $("ingestlog").textContent = log || "入库完成";
+      refreshStatus();
+    }
+  }, 1000);
+}
+
+function copyText(btn) {
+  const text = btn.parentElement.querySelector("p").textContent;
+  (navigator.clipboard ? navigator.clipboard.writeText(text) : Promise.reject())
+    .then(() => { btn.textContent = "已复制"; setTimeout(() => btn.textContent = "复制", 1200); })
+    .catch(() => { const ta = document.createElement("textarea"); ta.value = text; document.body.appendChild(ta); ta.select(); document.execCommand("copy"); ta.remove(); btn.textContent = "已复制"; setTimeout(() => btn.textContent = "复制", 1200); });
+}
+
+function esc(s) { return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;"); }
+refreshStatus();
+</script>
+</body>
+</html>

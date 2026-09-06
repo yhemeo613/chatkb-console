@@ -1,0 +1,113 @@
+@import './variables.less';
+
+* { box-sizing: border-box; }
+
+html, body, #app {
+  height: 100%;
+  overflow: hidden;      // 应用壳锁高：滚动只发生在内容区
+}
+
+body {
+  margin: 0;
+  background: @bg;
+  color: @text-1;
+  font-family: @font-stack;
+  font-size: @fs-base;
+  line-height: 1.5;      // AntD 规范：行高 = 1.5 倍字号
+  -webkit-font-smoothing: antialiased;
+}
+
+h1, h2, h3 { font-weight: 600; color: @text-1; }
+
+// ---- 面板：扁平 + 细边框，拒绝阴影大圆角 ----
+.ant-card {
+  border-radius: @radius;
+  box-shadow: none;
+  border: 1px solid @border;
+}
+.ant-card > .ant-card-head { min-height: 46px; border-bottom-color: @border; }
+.ant-card > .ant-card-head .ant-card-head-title { font-weight: 600; font-size: 14px; }
+
+// ---- 表格 ----
+.ant-table { border-radius: @radius; }
+.ant-table-thead > tr > th {
+  background: #fafbfc !important;
+  color: @text-2;
+  font-weight: 600;
+  font-size: 13px;
+}
+.ant-table-tbody > tr:hover > td { background: @hover-bg !important; }
+
+// ---- 数字排版：等宽 + 表格数字，指标页通用 ----
+.num { font-family: @num-font; font-variant-numeric: tabular-nums; letter-spacing: 0.02em; }
+
+// ---- 统计带：分隔线分列，替代等距卡片阵列 ----
+.stat-strip {
+  display: flex;
+  background: @panel;
+  border: 1px solid @border;
+  border-radius: @radius;
+
+  .cell {
+    flex: 1;
+    padding: 16px 20px 14px;
+    min-width: 0;
+
+    & + .cell { border-left: 1px solid @border; }
+
+    .label {
+      font-size: 12px;
+      color: @text-3;
+      letter-spacing: 0.08em;
+      margin-bottom: 6px;
+    }
+    .value {
+      font-family: @num-font;
+      font-variant-numeric: tabular-nums;
+      font-size: 26px;
+      font-weight: 700;
+      line-height: 1.15;
+      color: @text-1;
+      &.ok { color: @ok; }
+      &.bad { color: @danger; }
+      &.warn { color: @warn; }
+    }
+    .sub { font-size: 12px; color: @text-3; margin-top: 4px; }
+  }
+}
+
+// ---- 状态胶囊（扁平小字） ----
+.status-chip {
+  display: inline-flex; align-items: center; gap: 5px;
+  padding: 1px 8px; border-radius: 3px; font-size: 12px; line-height: 18px;
+  &::before { content: ''; width: 6px; height: 6px; border-radius: 1px; background: currentColor; }
+  &.ok { color: @ok; background: @green-bg; }
+  &.bad { color: @danger; background: #fdf1f0; }
+  &.warn { color: @warn; background: #fff7ec; }
+}
+
+// ---- 用量条形行（模型中心 / 工作台 Token 总览共用） ----
+.usage-row {
+  display: flex; align-items: center; gap: 10px; margin-bottom: 10px;
+  .usage-name { width: 190px; flex-shrink: 0; font-size: 12.5px; color: @text-2;
+    overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+  .usage-bar { flex: 1; height: 10px; background: #eef0f3; border-radius: 3px; overflow: hidden;
+    div { height: 100%; background: @green; border-radius: 3px; transition: width 0.4s; } }
+  .usage-val { width: 150px; flex-shrink: 0; text-align: right; font-size: 12px; color: @text-3; }
+}
+
+// ---- 入场动效：面板渐升（总览页） ----
+.rise { animation: rise 0.5s ease-out both; }
+.d1 { animation-delay: 0.08s; }
+.d2 { animation-delay: 0.16s; }
+@keyframes rise { from { opacity: 0; transform: translateY(10px); } to { opacity: 1; transform: none; } }
+
+// ---- 页面通用 ----
+.page-tip { font-size: 12.5px; color: @text-3; line-height: 1.8; }
+::-webkit-scrollbar { width: 8px; height: 8px; }
+::-webkit-scrollbar-thumb { background: #d5dae1; border-radius: 8px; }
+::-webkit-scrollbar-thumb:hover { background: #bcc3cc; }
+
+mark { background: #d9f7e4; padding: 0 2px; }
+pre.snippet { white-space: pre-wrap; word-break: break-word; font-family: inherit; margin: 0; }
+.mono { font-family: @num-font; }

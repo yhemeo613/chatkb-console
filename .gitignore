@@ -1,0 +1,20 @@
+# 运行时数据（含密钥/密码哈希/向量库/上传文件，严禁入库）
+backend/data/
+backend/backend_run.log
+
+# Python
+__pycache__/
+*.pyc
+.pytest_cache/
+
+# Node / 前端构建产物
+node_modules/
+frontend/dist/
+
+# 系统杂项
+.DS_Store
+Thumbs.db
+*.log
+test_scenarios_result.json
+s1.json
+s2.json

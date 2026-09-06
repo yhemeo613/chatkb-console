@@ -1,0 +1,754 @@
+[
+  {
+    "name": ".gitignore",
+    "path": ".gitignore",
+    "sha": "4cb12d8db77a1f9f11e1f7923b6f6f5075e003cf",
+    "size": 353,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/.gitignore?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/.gitignore",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/4cb12d8db77a1f9f11e1f7923b6f6f5075e003cf",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/.gitignore",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/.gitignore?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/4cb12d8db77a1f9f11e1f7923b6f6f5075e003cf",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/.gitignore"
+    }
+  },
+  {
+    "name": "12堂魔力数学课 - 阿瑟 · 本杰明.epub",
+    "path": "12堂魔力数学课 - 阿瑟 · 本杰明.epub",
+    "sha": "f50bb53bcccd6110c993d8126bffbad5be43f5be",
+    "size": 6401573,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/12%E5%A0%82%E9%AD%94%E5%8A%9B%E6%95%B0%E5%AD%A6%E8%AF%BE%20-%20%E9%98%BF%E7%91%9F%20%C2%B7%20%E6%9C%AC%E6%9D%B0%E6%98%8E.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/12%E5%A0%82%E9%AD%94%E5%8A%9B%E6%95%B0%E5%AD%A6%E8%AF%BE%20-%20%E9%98%BF%E7%91%9F%20%C2%B7%20%E6%9C%AC%E6%9D%B0%E6%98%8E.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/f50bb53bcccd6110c993d8126bffbad5be43f5be",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/12堂魔力数学课 - 阿瑟 · 本杰明.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/12%E5%A0%82%E9%AD%94%E5%8A%9B%E6%95%B0%E5%AD%A6%E8%AF%BE%20-%20%E9%98%BF%E7%91%9F%20%C2%B7%20%E6%9C%AC%E6%9D%B0%E6%98%8E.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/f50bb53bcccd6110c993d8126bffbad5be43f5be",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/12%E5%A0%82%E9%AD%94%E5%8A%9B%E6%95%B0%E5%AD%A6%E8%AF%BE%20-%20%E9%98%BF%E7%91%9F%20%C2%B7%20%E6%9C%AC%E6%9D%B0%E6%98%8E.epub"
+    }
+  },
+  {
+    "name": "Algorithms",
+    "path": "Algorithms",
+    "sha": "774aa683be673a180c36fcccf3c9a65ea12bc790",
+    "size": 0,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/Algorithms?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/tree/master/Algorithms",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/trees/774aa683be673a180c36fcccf3c9a65ea12bc790",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/Algorithms?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/trees/774aa683be673a180c36fcccf3c9a65ea12bc790",
+      "html": "https://github.com/devopsmi/eBooks/tree/master/Algorithms"
+    }
+  },
+  {
+    "name": "Artificial Intelligence-A Modern Approach (3rd Edition).pdf",
+    "path": "Artificial Intelligence-A Modern Approach (3rd Edition).pdf",
+    "sha": "2aff96f5a218f8e298afef2cab51399396818684",
+    "size": 15571908,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/Artificial%20Intelligence-A%20Modern%20Approach%20(3rd%20Edition).pdf?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/Artificial%20Intelligence-A%20Modern%20Approach%20(3rd%20Edition).pdf",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/2aff96f5a218f8e298afef2cab51399396818684",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/Artificial%20Intelligence-A%20Modern%20Approach%20(3rd%20Edition).pdf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/Artificial%20Intelligence-A%20Modern%20Approach%20(3rd%20Edition).pdf?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/2aff96f5a218f8e298afef2cab51399396818684",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/Artificial%20Intelligence-A%20Modern%20Approach%20(3rd%20Edition).pdf"
+    }
+  },
+  {
+    "name": "Code Girls - Liza Mundy.epub",
+    "path": "Code Girls - Liza Mundy.epub",
+    "sha": "0287f22fea1c99dbf59fa3a93649f3608cc164d5",
+    "size": 2424427,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/Code%20Girls%20-%20Liza%20Mundy.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/Code%20Girls%20-%20Liza%20Mundy.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/0287f22fea1c99dbf59fa3a93649f3608cc164d5",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/Code%20Girls%20-%20Liza%20Mundy.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/Code%20Girls%20-%20Liza%20Mundy.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/0287f22fea1c99dbf59fa3a93649f3608cc164d5",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/Code%20Girls%20-%20Liza%20Mundy.epub"
+    }
+  },
+  {
+    "name": "Da Vinci's life.jpg",
+    "path": "Da Vinci's life.jpg",
+    "sha": "d4b5ea525943d67e0084536934f7cff010100ab1",
+    "size": 2156824,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/Da%20Vinci's%20life.jpg?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/Da%20Vinci's%20life.jpg",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/d4b5ea525943d67e0084536934f7cff010100ab1",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/Da%20Vinci's%20life.jpg",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/Da%20Vinci's%20life.jpg?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/d4b5ea525943d67e0084536934f7cff010100ab1",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/Da%20Vinci's%20life.jpg"
+    }
+  },
+  {
+    "name": "English",
+    "path": "English",
+    "sha": "c16997edcec84ce0e070e89aecfd4d879481bef1",
+    "size": 0,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/English?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/tree/master/English",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/trees/c16997edcec84ce0e070e89aecfd4d879481bef1",
+    "download_url": null,
+    "type": "dir",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/English?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/trees/c16997edcec84ce0e070e89aecfd4d879481bef1",
+      "html": "https://github.com/devopsmi/eBooks/tree/master/English"
+    }
+  },
+  {
+    "name": "Factfulness by Hans Rosling.epub",
+    "path": "Factfulness by Hans Rosling.epub",
+    "sha": "2ca612baa9a1b859545978a5b5869c8844fd4379",
+    "size": 3874856,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/Factfulness%20by%20Hans%20Rosling.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/Factfulness%20by%20Hans%20Rosling.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/2ca612baa9a1b859545978a5b5869c8844fd4379",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/Factfulness%20by%20Hans%20Rosling.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/Factfulness%20by%20Hans%20Rosling.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/2ca612baa9a1b859545978a5b5869c8844fd4379",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/Factfulness%20by%20Hans%20Rosling.epub"
+    }
+  },
+  {
+    "name": "Flutter编程指南.pdf",
+    "path": "Flutter编程指南.pdf",
+    "sha": "40e9920439382dcc15309d286228bc4a21a3558e",
+    "size": 3670348,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/Flutter%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/Flutter%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/40e9920439382dcc15309d286228bc4a21a3558e",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/Flutter编程指南.pdf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/Flutter%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/40e9920439382dcc15309d286228bc4a21a3558e",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/Flutter%E7%BC%96%E7%A8%8B%E6%8C%87%E5%8D%97.pdf"
+    }
+  },
+  {
+    "name": "LICENSE",
+    "path": "LICENSE",
+    "sha": "35a90f5482287dc81f22d0cea60889081791ec91",
+    "size": 1066,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/LICENSE?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/LICENSE",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/35a90f5482287dc81f22d0cea60889081791ec91",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/LICENSE",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/LICENSE?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/35a90f5482287dc81f22d0cea60889081791ec91",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/LICENSE"
+    }
+  },
+  {
+    "name": "readme.md",
+    "path": "readme.md",
+    "sha": "d241586213898c9e0a9aa480cb3aeb6f6d06bf50",
+    "size": 3356,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/readme.md?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/readme.md",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/d241586213898c9e0a9aa480cb3aeb6f6d06bf50",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/readme.md",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/readme.md?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/d241586213898c9e0a9aa480cb3aeb6f6d06bf50",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/readme.md"
+    }
+  },
+  {
+    "name": "x的奇幻之旅：为什么工作和生活中要有数学思维.epub",
+    "path": "x的奇幻之旅：为什么工作和生活中要有数学思维.epub",
+    "sha": "0896404fd61c32526cd05920422ff6a829f1f2c4",
+    "size": 2421780,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/x%E7%9A%84%E5%A5%87%E5%B9%BB%E4%B9%8B%E6%97%85%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%94%9F%E6%B4%BB%E4%B8%AD%E8%A6%81%E6%9C%89%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/x%E7%9A%84%E5%A5%87%E5%B9%BB%E4%B9%8B%E6%97%85%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%94%9F%E6%B4%BB%E4%B8%AD%E8%A6%81%E6%9C%89%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/0896404fd61c32526cd05920422ff6a829f1f2c4",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/x的奇幻之旅：为什么工作和生活中要有数学思维.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/x%E7%9A%84%E5%A5%87%E5%B9%BB%E4%B9%8B%E6%97%85%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%94%9F%E6%B4%BB%E4%B8%AD%E8%A6%81%E6%9C%89%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/0896404fd61c32526cd05920422ff6a829f1f2c4",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/x%E7%9A%84%E5%A5%87%E5%B9%BB%E4%B9%8B%E6%97%85%EF%BC%9A%E4%B8%BA%E4%BB%80%E4%B9%88%E5%B7%A5%E4%BD%9C%E5%92%8C%E7%94%9F%E6%B4%BB%E4%B8%AD%E8%A6%81%E6%9C%89%E6%95%B0%E5%AD%A6%E6%80%9D%E7%BB%B4.epub"
+    }
+  },
+  {
+    "name": "世界观：现代人必须要懂的科学哲学和科学史(第2版).epub",
+    "path": "世界观：现代人必须要懂的科学哲学和科学史(第2版).epub",
+    "sha": "f805d93f1b9aa56ce8a4f0e05ee5e6af0c3eeb89",
+    "size": 1732007,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%B8%96%E7%95%8C%E8%A7%82%EF%BC%9A%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%BF%85%E9%A1%BB%E8%A6%81%E6%87%82%E7%9A%84%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%92%8C%E7%A7%91%E5%AD%A6%E5%8F%B2(%E7%AC%AC2%E7%89%88).epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E4%B8%96%E7%95%8C%E8%A7%82%EF%BC%9A%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%BF%85%E9%A1%BB%E8%A6%81%E6%87%82%E7%9A%84%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%92%8C%E7%A7%91%E5%AD%A6%E5%8F%B2(%E7%AC%AC2%E7%89%88).epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/f805d93f1b9aa56ce8a4f0e05ee5e6af0c3eeb89",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/世界观：现代人必须要懂的科学哲学和科学史(第2版).epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%B8%96%E7%95%8C%E8%A7%82%EF%BC%9A%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%BF%85%E9%A1%BB%E8%A6%81%E6%87%82%E7%9A%84%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%92%8C%E7%A7%91%E5%AD%A6%E5%8F%B2(%E7%AC%AC2%E7%89%88).epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/f805d93f1b9aa56ce8a4f0e05ee5e6af0c3eeb89",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E4%B8%96%E7%95%8C%E8%A7%82%EF%BC%9A%E7%8E%B0%E4%BB%A3%E4%BA%BA%E5%BF%85%E9%A1%BB%E8%A6%81%E6%87%82%E7%9A%84%E7%A7%91%E5%AD%A6%E5%93%B2%E5%AD%A6%E5%92%8C%E7%A7%91%E5%AD%A6%E5%8F%B2(%E7%AC%AC2%E7%89%88).epub"
+    }
+  },
+  {
+    "name": "为什么我们会上瘾.epub",
+    "path": "为什么我们会上瘾.epub",
+    "sha": "eacfa22cdd63991388e456ca54f7d13564fbcf90",
+    "size": 1424636,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E4%BC%9A%E4%B8%8A%E7%98%BE.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E4%BC%9A%E4%B8%8A%E7%98%BE.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/eacfa22cdd63991388e456ca54f7d13564fbcf90",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/为什么我们会上瘾.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E4%BC%9A%E4%B8%8A%E7%98%BE.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/eacfa22cdd63991388e456ca54f7d13564fbcf90",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E4%B8%BA%E4%BB%80%E4%B9%88%E6%88%91%E4%BB%AC%E4%BC%9A%E4%B8%8A%E7%98%BE.epub"
+    }
+  },
+  {
+    "name": "人类愚蠢辞典 - 皮耶尔乔治·奥迪弗雷迪.epub",
+    "path": "人类愚蠢辞典 - 皮耶尔乔治·奥迪弗雷迪.epub",
+    "sha": "a08061e3b08ba09d6437a527da817bcfa95d00ed",
+    "size": 529262,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%BA%BA%E7%B1%BB%E6%84%9A%E8%A0%A2%E8%BE%9E%E5%85%B8%20-%20%E7%9A%AE%E8%80%B6%E5%B0%94%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E8%BF%AA%E5%BC%97%E9%9B%B7%E8%BF%AA.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E4%BA%BA%E7%B1%BB%E6%84%9A%E8%A0%A2%E8%BE%9E%E5%85%B8%20-%20%E7%9A%AE%E8%80%B6%E5%B0%94%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E8%BF%AA%E5%BC%97%E9%9B%B7%E8%BF%AA.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/a08061e3b08ba09d6437a527da817bcfa95d00ed",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/人类愚蠢辞典 - 皮耶尔乔治·奥迪弗雷迪.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%BA%BA%E7%B1%BB%E6%84%9A%E8%A0%A2%E8%BE%9E%E5%85%B8%20-%20%E7%9A%AE%E8%80%B6%E5%B0%94%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E8%BF%AA%E5%BC%97%E9%9B%B7%E8%BF%AA.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/a08061e3b08ba09d6437a527da817bcfa95d00ed",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E4%BA%BA%E7%B1%BB%E6%84%9A%E8%A0%A2%E8%BE%9E%E5%85%B8%20-%20%E7%9A%AE%E8%80%B6%E5%B0%94%E4%B9%94%E6%B2%BB%C2%B7%E5%A5%A5%E8%BF%AA%E5%BC%97%E9%9B%B7%E8%BF%AA.epub"
+    }
+  },
+  {
+    "name": "从一到无穷大(俄)乔治・伽莫夫.pdf",
+    "path": "从一到无穷大(俄)乔治・伽莫夫.pdf",
+    "sha": "848cdb1bd854279f843aa788ad977f2e99b5bd60",
+    "size": 9684312,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%BB%8E%E4%B8%80%E5%88%B0%E6%97%A0%E7%A9%B7%E5%A4%A7(%E4%BF%84)%E4%B9%94%E6%B2%BB%E3%83%BB%E4%BC%BD%E8%8E%AB%E5%A4%AB.pdf?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E4%BB%8E%E4%B8%80%E5%88%B0%E6%97%A0%E7%A9%B7%E5%A4%A7(%E4%BF%84)%E4%B9%94%E6%B2%BB%E3%83%BB%E4%BC%BD%E8%8E%AB%E5%A4%AB.pdf",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/848cdb1bd854279f843aa788ad977f2e99b5bd60",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/从一到无穷大(俄)乔治・伽莫夫.pdf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%BB%8E%E4%B8%80%E5%88%B0%E6%97%A0%E7%A9%B7%E5%A4%A7(%E4%BF%84)%E4%B9%94%E6%B2%BB%E3%83%BB%E4%BC%BD%E8%8E%AB%E5%A4%AB.pdf?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/848cdb1bd854279f843aa788ad977f2e99b5bd60",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E4%BB%8E%E4%B8%80%E5%88%B0%E6%97%A0%E7%A9%B7%E5%A4%A7(%E4%BF%84)%E4%B9%94%E6%B2%BB%E3%83%BB%E4%BC%BD%E8%8E%AB%E5%A4%AB.pdf"
+    }
+  },
+  {
+    "name": "从一到无穷大：科学中的事实与臆测.epub",
+    "path": "从一到无穷大：科学中的事实与臆测.epub",
+    "sha": "9f430e43253471ab0cf7303abfd337815113eb3d",
+    "size": 9066595,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%BB%8E%E4%B8%80%E5%88%B0%E6%97%A0%E7%A9%B7%E5%A4%A7%EF%BC%9A%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E4%BA%8B%E5%AE%9E%E4%B8%8E%E8%87%86%E6%B5%8B.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E4%BB%8E%E4%B8%80%E5%88%B0%E6%97%A0%E7%A9%B7%E5%A4%A7%EF%BC%9A%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E4%BA%8B%E5%AE%9E%E4%B8%8E%E8%87%86%E6%B5%8B.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/9f430e43253471ab0cf7303abfd337815113eb3d",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/从一到无穷大：科学中的事实与臆测.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%BB%8E%E4%B8%80%E5%88%B0%E6%97%A0%E7%A9%B7%E5%A4%A7%EF%BC%9A%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E4%BA%8B%E5%AE%9E%E4%B8%8E%E8%87%86%E6%B5%8B.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/9f430e43253471ab0cf7303abfd337815113eb3d",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E4%BB%8E%E4%B8%80%E5%88%B0%E6%97%A0%E7%A9%B7%E5%A4%A7%EF%BC%9A%E7%A7%91%E5%AD%A6%E4%B8%AD%E7%9A%84%E4%BA%8B%E5%AE%9E%E4%B8%8E%E8%87%86%E6%B5%8B.epub"
+    }
+  },
+  {
+    "name": "从餐桌上学到的职场智慧.epub",
+    "path": "从餐桌上学到的职场智慧.epub",
+    "sha": "34929d404386cb6a5ee4a153f0c2d52d5d449847",
+    "size": 47200,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%BB%8E%E9%A4%90%E6%A1%8C%E4%B8%8A%E5%AD%A6%E5%88%B0%E7%9A%84%E8%81%8C%E5%9C%BA%E6%99%BA%E6%85%A7.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E4%BB%8E%E9%A4%90%E6%A1%8C%E4%B8%8A%E5%AD%A6%E5%88%B0%E7%9A%84%E8%81%8C%E5%9C%BA%E6%99%BA%E6%85%A7.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/34929d404386cb6a5ee4a153f0c2d52d5d449847",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/从餐桌上学到的职场智慧.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%BB%8E%E9%A4%90%E6%A1%8C%E4%B8%8A%E5%AD%A6%E5%88%B0%E7%9A%84%E8%81%8C%E5%9C%BA%E6%99%BA%E6%85%A7.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/34929d404386cb6a5ee4a153f0c2d52d5d449847",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E4%BB%8E%E9%A4%90%E6%A1%8C%E4%B8%8A%E5%AD%A6%E5%88%B0%E7%9A%84%E8%81%8C%E5%9C%BA%E6%99%BA%E6%85%A7.epub"
+    }
+  },
+  {
+    "name": "你一年的8760小时.epub",
+    "path": "你一年的8760小时.epub",
+    "sha": "f5eec3d1be10509f508ccd977391257f9f78ef52",
+    "size": 872267,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%BD%A0%E4%B8%80%E5%B9%B4%E7%9A%848760%E5%B0%8F%E6%97%B6.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E4%BD%A0%E4%B8%80%E5%B9%B4%E7%9A%848760%E5%B0%8F%E6%97%B6.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/f5eec3d1be10509f508ccd977391257f9f78ef52",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/你一年的8760小时.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%BD%A0%E4%B8%80%E5%B9%B4%E7%9A%848760%E5%B0%8F%E6%97%B6.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/f5eec3d1be10509f508ccd977391257f9f78ef52",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E4%BD%A0%E4%B8%80%E5%B9%B4%E7%9A%848760%E5%B0%8F%E6%97%B6.epub"
+    }
+  },
+  {
+    "name": "你凭什么做好互联网：从技术思维到商业逻辑 - 曹政.epub",
+    "path": "你凭什么做好互联网：从技术思维到商业逻辑 - 曹政.epub",
+    "sha": "48462f518900d77100d253aac74d1e3657e737a6",
+    "size": 308002,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%BD%A0%E5%87%AD%E4%BB%80%E4%B9%88%E5%81%9A%E5%A5%BD%E4%BA%92%E8%81%94%E7%BD%91%EF%BC%9A%E4%BB%8E%E6%8A%80%E6%9C%AF%E6%80%9D%E7%BB%B4%E5%88%B0%E5%95%86%E4%B8%9A%E9%80%BB%E8%BE%91%20-%20%E6%9B%B9%E6%94%BF.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E4%BD%A0%E5%87%AD%E4%BB%80%E4%B9%88%E5%81%9A%E5%A5%BD%E4%BA%92%E8%81%94%E7%BD%91%EF%BC%9A%E4%BB%8E%E6%8A%80%E6%9C%AF%E6%80%9D%E7%BB%B4%E5%88%B0%E5%95%86%E4%B8%9A%E9%80%BB%E8%BE%91%20-%20%E6%9B%B9%E6%94%BF.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/48462f518900d77100d253aac74d1e3657e737a6",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/你凭什么做好互联网：从技术思维到商业逻辑 - 曹政.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E4%BD%A0%E5%87%AD%E4%BB%80%E4%B9%88%E5%81%9A%E5%A5%BD%E4%BA%92%E8%81%94%E7%BD%91%EF%BC%9A%E4%BB%8E%E6%8A%80%E6%9C%AF%E6%80%9D%E7%BB%B4%E5%88%B0%E5%95%86%E4%B8%9A%E9%80%BB%E8%BE%91%20-%20%E6%9B%B9%E6%94%BF.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/48462f518900d77100d253aac74d1e3657e737a6",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E4%BD%A0%E5%87%AD%E4%BB%80%E4%B9%88%E5%81%9A%E5%A5%BD%E4%BA%92%E8%81%94%E7%BD%91%EF%BC%9A%E4%BB%8E%E6%8A%80%E6%9C%AF%E6%80%9D%E7%BB%B4%E5%88%B0%E5%95%86%E4%B8%9A%E9%80%BB%E8%BE%91%20-%20%E6%9B%B9%E6%94%BF.epub"
+    }
+  },
+  {
+    "name": "全球科技通史 - 吴军.epub",
+    "path": "全球科技通史 - 吴军.epub",
+    "sha": "838b3001fddc7f3b669c097fc0c27f2a32e4a483",
+    "size": 4135726,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%85%A8%E7%90%83%E7%A7%91%E6%8A%80%E9%80%9A%E5%8F%B2%20-%20%E5%90%B4%E5%86%9B.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E5%85%A8%E7%90%83%E7%A7%91%E6%8A%80%E9%80%9A%E5%8F%B2%20-%20%E5%90%B4%E5%86%9B.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/838b3001fddc7f3b669c097fc0c27f2a32e4a483",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/全球科技通史 - 吴军.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%85%A8%E7%90%83%E7%A7%91%E6%8A%80%E9%80%9A%E5%8F%B2%20-%20%E5%90%B4%E5%86%9B.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/838b3001fddc7f3b669c097fc0c27f2a32e4a483",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E5%85%A8%E7%90%83%E7%A7%91%E6%8A%80%E9%80%9A%E5%8F%B2%20-%20%E5%90%B4%E5%86%9B.epub"
+    }
+  },
+  {
+    "name": "创意写作书系 走进大师(套装18册全).epub",
+    "path": "创意写作书系 走进大师(套装18册全).epub",
+    "sha": "828d110f8d799751939e4a22a2f643c0d85ce018",
+    "size": 15387696,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%88%9B%E6%84%8F%E5%86%99%E4%BD%9C%E4%B9%A6%E7%B3%BB%20%E8%B5%B0%E8%BF%9B%E5%A4%A7%E5%B8%88(%E5%A5%97%E8%A3%8518%E5%86%8C%E5%85%A8).epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E5%88%9B%E6%84%8F%E5%86%99%E4%BD%9C%E4%B9%A6%E7%B3%BB%20%E8%B5%B0%E8%BF%9B%E5%A4%A7%E5%B8%88(%E5%A5%97%E8%A3%8518%E5%86%8C%E5%85%A8).epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/828d110f8d799751939e4a22a2f643c0d85ce018",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/创意写作书系 走进大师(套装18册全).epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%88%9B%E6%84%8F%E5%86%99%E4%BD%9C%E4%B9%A6%E7%B3%BB%20%E8%B5%B0%E8%BF%9B%E5%A4%A7%E5%B8%88(%E5%A5%97%E8%A3%8518%E5%86%8C%E5%85%A8).epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/828d110f8d799751939e4a22a2f643c0d85ce018",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E5%88%9B%E6%84%8F%E5%86%99%E4%BD%9C%E4%B9%A6%E7%B3%BB%20%E8%B5%B0%E8%BF%9B%E5%A4%A7%E5%B8%88(%E5%A5%97%E8%A3%8518%E5%86%8C%E5%85%A8).epub"
+    }
+  },
+  {
+    "name": "协同 - 如何打造高联动团队.epub",
+    "path": "协同 - 如何打造高联动团队.epub",
+    "sha": "b207910ed29ada39acf2aeb566c28fc2a8c8f50f",
+    "size": 2103612,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%8D%8F%E5%90%8C%20-%20%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E9%AB%98%E8%81%94%E5%8A%A8%E5%9B%A2%E9%98%9F.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E5%8D%8F%E5%90%8C%20-%20%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E9%AB%98%E8%81%94%E5%8A%A8%E5%9B%A2%E9%98%9F.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/b207910ed29ada39acf2aeb566c28fc2a8c8f50f",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/协同 - 如何打造高联动团队.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%8D%8F%E5%90%8C%20-%20%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E9%AB%98%E8%81%94%E5%8A%A8%E5%9B%A2%E9%98%9F.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/b207910ed29ada39acf2aeb566c28fc2a8c8f50f",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E5%8D%8F%E5%90%8C%20-%20%E5%A6%82%E4%BD%95%E6%89%93%E9%80%A0%E9%AB%98%E8%81%94%E5%8A%A8%E5%9B%A2%E9%98%9F.epub"
+    }
+  },
+  {
+    "name": "卧底经济学 - 全4册.epub",
+    "path": "卧底经济学 - 全4册.epub",
+    "sha": "9e899a9f917477741b979c00266ed2bfdb2232c1",
+    "size": 2455262,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%8D%A7%E5%BA%95%E7%BB%8F%E6%B5%8E%E5%AD%A6%20-%20%E5%85%A84%E5%86%8C.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E5%8D%A7%E5%BA%95%E7%BB%8F%E6%B5%8E%E5%AD%A6%20-%20%E5%85%A84%E5%86%8C.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/9e899a9f917477741b979c00266ed2bfdb2232c1",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/卧底经济学 - 全4册.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%8D%A7%E5%BA%95%E7%BB%8F%E6%B5%8E%E5%AD%A6%20-%20%E5%85%A84%E5%86%8C.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/9e899a9f917477741b979c00266ed2bfdb2232c1",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E5%8D%A7%E5%BA%95%E7%BB%8F%E6%B5%8E%E5%AD%A6%20-%20%E5%85%A84%E5%86%8C.epub"
+    }
+  },
+  {
+    "name": "原则 爆裂 混乱 盗火（4册）.epub",
+    "path": "原则 爆裂 混乱 盗火（4册）.epub",
+    "sha": "0d50994b78ed641a2f6415eab764347337f1a530",
+    "size": 4334937,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%8E%9F%E5%88%99%20%E7%88%86%E8%A3%82%20%E6%B7%B7%E4%B9%B1%20%E7%9B%97%E7%81%AB%EF%BC%884%E5%86%8C%EF%BC%89.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E5%8E%9F%E5%88%99%20%E7%88%86%E8%A3%82%20%E6%B7%B7%E4%B9%B1%20%E7%9B%97%E7%81%AB%EF%BC%884%E5%86%8C%EF%BC%89.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/0d50994b78ed641a2f6415eab764347337f1a530",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/原则 爆裂 混乱 盗火（4册）.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%8E%9F%E5%88%99%20%E7%88%86%E8%A3%82%20%E6%B7%B7%E4%B9%B1%20%E7%9B%97%E7%81%AB%EF%BC%884%E5%86%8C%EF%BC%89.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/0d50994b78ed641a2f6415eab764347337f1a530",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E5%8E%9F%E5%88%99%20%E7%88%86%E8%A3%82%20%E6%B7%B7%E4%B9%B1%20%E7%9B%97%E7%81%AB%EF%BC%884%E5%86%8C%EF%BC%89.epub"
+    }
+  },
+  {
+    "name": "反套路 - 大卫·迪萨沃.epub",
+    "path": "反套路 - 大卫·迪萨沃.epub",
+    "sha": "90afee75b95e6ee03cbdcea83a659a15a0a717bd",
+    "size": 310052,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%8F%8D%E5%A5%97%E8%B7%AF%20-%20%E5%A4%A7%E5%8D%AB%C2%B7%E8%BF%AA%E8%90%A8%E6%B2%83.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E5%8F%8D%E5%A5%97%E8%B7%AF%20-%20%E5%A4%A7%E5%8D%AB%C2%B7%E8%BF%AA%E8%90%A8%E6%B2%83.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/90afee75b95e6ee03cbdcea83a659a15a0a717bd",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/反套路 - 大卫·迪萨沃.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%8F%8D%E5%A5%97%E8%B7%AF%20-%20%E5%A4%A7%E5%8D%AB%C2%B7%E8%BF%AA%E8%90%A8%E6%B2%83.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/90afee75b95e6ee03cbdcea83a659a15a0a717bd",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E5%8F%8D%E5%A5%97%E8%B7%AF%20-%20%E5%A4%A7%E5%8D%AB%C2%B7%E8%BF%AA%E8%90%A8%E6%B2%83.epub"
+    }
+  },
+  {
+    "name": "大脑里的8个骗子：不要被自己的大脑骗了.epub",
+    "path": "大脑里的8个骗子：不要被自己的大脑骗了.epub",
+    "sha": "2932c04f2597c64408a8baccfececaeffec9e2c9",
+    "size": 77215,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%A4%A7%E8%84%91%E9%87%8C%E7%9A%848%E4%B8%AA%E9%AA%97%E5%AD%90%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A4%A7%E8%84%91%E9%AA%97%E4%BA%86.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E5%A4%A7%E8%84%91%E9%87%8C%E7%9A%848%E4%B8%AA%E9%AA%97%E5%AD%90%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A4%A7%E8%84%91%E9%AA%97%E4%BA%86.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/2932c04f2597c64408a8baccfececaeffec9e2c9",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/大脑里的8个骗子：不要被自己的大脑骗了.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E5%A4%A7%E8%84%91%E9%87%8C%E7%9A%848%E4%B8%AA%E9%AA%97%E5%AD%90%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A4%A7%E8%84%91%E9%AA%97%E4%BA%86.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/2932c04f2597c64408a8baccfececaeffec9e2c9",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E5%A4%A7%E8%84%91%E9%87%8C%E7%9A%848%E4%B8%AA%E9%AA%97%E5%AD%90%EF%BC%9A%E4%B8%8D%E8%A6%81%E8%A2%AB%E8%87%AA%E5%B7%B1%E7%9A%84%E5%A4%A7%E8%84%91%E9%AA%97%E4%BA%86.epub"
+    }
+  },
+  {
+    "name": "思维的本质.epub",
+    "path": "思维的本质.epub",
+    "sha": "3297b75bad3b3a4bf5fe3ea1f70f8658fe9d630e",
+    "size": 213621,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%80%9D%E7%BB%B4%E7%9A%84%E6%9C%AC%E8%B4%A8.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E6%80%9D%E7%BB%B4%E7%9A%84%E6%9C%AC%E8%B4%A8.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/3297b75bad3b3a4bf5fe3ea1f70f8658fe9d630e",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/思维的本质.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%80%9D%E7%BB%B4%E7%9A%84%E6%9C%AC%E8%B4%A8.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/3297b75bad3b3a4bf5fe3ea1f70f8658fe9d630e",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E6%80%9D%E7%BB%B4%E7%9A%84%E6%9C%AC%E8%B4%A8.epub"
+    }
+  },
+  {
+    "name": "所谓学习好, 就是方法好 - (日)坪田信贵.epub",
+    "path": "所谓学习好, 就是方法好 - (日)坪田信贵.epub",
+    "sha": "19c90483d52064aafa9cdfd276ffb603fa2f57f0",
+    "size": 1543452,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%89%80%E8%B0%93%E5%AD%A6%E4%B9%A0%E5%A5%BD,%20%E5%B0%B1%E6%98%AF%E6%96%B9%E6%B3%95%E5%A5%BD%20-%20(%E6%97%A5)%E5%9D%AA%E7%94%B0%E4%BF%A1%E8%B4%B5.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E6%89%80%E8%B0%93%E5%AD%A6%E4%B9%A0%E5%A5%BD,%20%E5%B0%B1%E6%98%AF%E6%96%B9%E6%B3%95%E5%A5%BD%20-%20(%E6%97%A5)%E5%9D%AA%E7%94%B0%E4%BF%A1%E8%B4%B5.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/19c90483d52064aafa9cdfd276ffb603fa2f57f0",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/所谓学习好, 就是方法好 - (日)坪田信贵.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%89%80%E8%B0%93%E5%AD%A6%E4%B9%A0%E5%A5%BD,%20%E5%B0%B1%E6%98%AF%E6%96%B9%E6%B3%95%E5%A5%BD%20-%20(%E6%97%A5)%E5%9D%AA%E7%94%B0%E4%BF%A1%E8%B4%B5.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/19c90483d52064aafa9cdfd276ffb603fa2f57f0",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E6%89%80%E8%B0%93%E5%AD%A6%E4%B9%A0%E5%A5%BD,%20%E5%B0%B1%E6%98%AF%E6%96%B9%E6%B3%95%E5%A5%BD%20-%20(%E6%97%A5)%E5%9D%AA%E7%94%B0%E4%BF%A1%E8%B4%B5.epub"
+    }
+  },
+  {
+    "name": "改变思维有效沟通全书_幽默沟通学+简单逻辑学+心理暗示力(套装共3册).epub",
+    "path": "改变思维有效沟通全书_幽默沟通学+简单逻辑学+心理暗示力(套装共3册).epub",
+    "sha": "372d99ad164cd645f7370a2b5b471bde722f82ee",
+    "size": 1011968,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%94%B9%E5%8F%98%E6%80%9D%E7%BB%B4%E6%9C%89%E6%95%88%E6%B2%9F%E9%80%9A%E5%85%A8%E4%B9%A6_%E5%B9%BD%E9%BB%98%E6%B2%9F%E9%80%9A%E5%AD%A6%2B%E7%AE%80%E5%8D%95%E9%80%BB%E8%BE%91%E5%AD%A6%2B%E5%BF%83%E7%90%86%E6%9A%97%E7%A4%BA%E5%8A%9B(%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C).epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E6%94%B9%E5%8F%98%E6%80%9D%E7%BB%B4%E6%9C%89%E6%95%88%E6%B2%9F%E9%80%9A%E5%85%A8%E4%B9%A6_%E5%B9%BD%E9%BB%98%E6%B2%9F%E9%80%9A%E5%AD%A6%2B%E7%AE%80%E5%8D%95%E9%80%BB%E8%BE%91%E5%AD%A6%2B%E5%BF%83%E7%90%86%E6%9A%97%E7%A4%BA%E5%8A%9B(%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C).epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/372d99ad164cd645f7370a2b5b471bde722f82ee",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/改变思维有效沟通全书_幽默沟通学+简单逻辑学+心理暗示力(套装共3册).epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%94%B9%E5%8F%98%E6%80%9D%E7%BB%B4%E6%9C%89%E6%95%88%E6%B2%9F%E9%80%9A%E5%85%A8%E4%B9%A6_%E5%B9%BD%E9%BB%98%E6%B2%9F%E9%80%9A%E5%AD%A6%2B%E7%AE%80%E5%8D%95%E9%80%BB%E8%BE%91%E5%AD%A6%2B%E5%BF%83%E7%90%86%E6%9A%97%E7%A4%BA%E5%8A%9B(%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C).epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/372d99ad164cd645f7370a2b5b471bde722f82ee",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E6%94%B9%E5%8F%98%E6%80%9D%E7%BB%B4%E6%9C%89%E6%95%88%E6%B2%9F%E9%80%9A%E5%85%A8%E4%B9%A6_%E5%B9%BD%E9%BB%98%E6%B2%9F%E9%80%9A%E5%AD%A6%2B%E7%AE%80%E5%8D%95%E9%80%BB%E8%BE%91%E5%AD%A6%2B%E5%BF%83%E7%90%86%E6%9A%97%E7%A4%BA%E5%8A%9B(%E5%A5%97%E8%A3%85%E5%85%B13%E5%86%8C).epub"
+    }
+  },
+  {
+    "name": "故事思维.epub",
+    "path": "故事思维.epub",
+    "sha": "347ebfbb6597ed1df2105a05b5b441c8ed697528",
+    "size": 295671,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%95%85%E4%BA%8B%E6%80%9D%E7%BB%B4.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E6%95%85%E4%BA%8B%E6%80%9D%E7%BB%B4.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/347ebfbb6597ed1df2105a05b5b441c8ed697528",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/故事思维.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%95%85%E4%BA%8B%E6%80%9D%E7%BB%B4.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/347ebfbb6597ed1df2105a05b5b441c8ed697528",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E6%95%85%E4%BA%8B%E6%80%9D%E7%BB%B4.epub"
+    }
+  },
+  {
+    "name": "数理化通俗演义.epub",
+    "path": "数理化通俗演义.epub",
+    "sha": "342fa2162cf52694d69a16e80948497981f692c0",
+    "size": 8156599,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%95%B0%E7%90%86%E5%8C%96%E9%80%9A%E4%BF%97%E6%BC%94%E4%B9%89.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E6%95%B0%E7%90%86%E5%8C%96%E9%80%9A%E4%BF%97%E6%BC%94%E4%B9%89.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/342fa2162cf52694d69a16e80948497981f692c0",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/数理化通俗演义.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%95%B0%E7%90%86%E5%8C%96%E9%80%9A%E4%BF%97%E6%BC%94%E4%B9%89.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/342fa2162cf52694d69a16e80948497981f692c0",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E6%95%B0%E7%90%86%E5%8C%96%E9%80%9A%E4%BF%97%E6%BC%94%E4%B9%89.epub"
+    }
+  },
+  {
+    "name": "智能的本质：人工智能与机器人领域的64个大问题  .pdf",
+    "path": "智能的本质：人工智能与机器人领域的64个大问题  .pdf",
+    "sha": "01e5930adef7a5ed4591f899687bb8b6495a3285",
+    "size": 1747109,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%99%BA%E8%83%BD%E7%9A%84%E6%9C%AC%E8%B4%A8%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A2%86%E5%9F%9F%E7%9A%8464%E4%B8%AA%E5%A4%A7%E9%97%AE%E9%A2%98%20%20.pdf?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E6%99%BA%E8%83%BD%E7%9A%84%E6%9C%AC%E8%B4%A8%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A2%86%E5%9F%9F%E7%9A%8464%E4%B8%AA%E5%A4%A7%E9%97%AE%E9%A2%98%20%20.pdf",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/01e5930adef7a5ed4591f899687bb8b6495a3285",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/智能的本质：人工智能与机器人领域的64个大问题  .pdf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%99%BA%E8%83%BD%E7%9A%84%E6%9C%AC%E8%B4%A8%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A2%86%E5%9F%9F%E7%9A%8464%E4%B8%AA%E5%A4%A7%E9%97%AE%E9%A2%98%20%20.pdf?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/01e5930adef7a5ed4591f899687bb8b6495a3285",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E6%99%BA%E8%83%BD%E7%9A%84%E6%9C%AC%E8%B4%A8%EF%BC%9A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E9%A2%86%E5%9F%9F%E7%9A%8464%E4%B8%AA%E5%A4%A7%E9%97%AE%E9%A2%98%20%20.pdf"
+    }
+  },
+  {
+    "name": "暗知识：机器认知如何颠覆商业和社会.epub",
+    "path": "暗知识：机器认知如何颠覆商业和社会.epub",
+    "sha": "db0af85a2da23e794745cd993931a2104b41570f",
+    "size": 9813111,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%9A%97%E7%9F%A5%E8%AF%86%EF%BC%9A%E6%9C%BA%E5%99%A8%E8%AE%A4%E7%9F%A5%E5%A6%82%E4%BD%95%E9%A2%A0%E8%A6%86%E5%95%86%E4%B8%9A%E5%92%8C%E7%A4%BE%E4%BC%9A.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E6%9A%97%E7%9F%A5%E8%AF%86%EF%BC%9A%E6%9C%BA%E5%99%A8%E8%AE%A4%E7%9F%A5%E5%A6%82%E4%BD%95%E9%A2%A0%E8%A6%86%E5%95%86%E4%B8%9A%E5%92%8C%E7%A4%BE%E4%BC%9A.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/db0af85a2da23e794745cd993931a2104b41570f",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/暗知识：机器认知如何颠覆商业和社会.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%9A%97%E7%9F%A5%E8%AF%86%EF%BC%9A%E6%9C%BA%E5%99%A8%E8%AE%A4%E7%9F%A5%E5%A6%82%E4%BD%95%E9%A2%A0%E8%A6%86%E5%95%86%E4%B8%9A%E5%92%8C%E7%A4%BE%E4%BC%9A.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/db0af85a2da23e794745cd993931a2104b41570f",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E6%9A%97%E7%9F%A5%E8%AF%86%EF%BC%9A%E6%9C%BA%E5%99%A8%E8%AE%A4%E7%9F%A5%E5%A6%82%E4%BD%95%E9%A2%A0%E8%A6%86%E5%95%86%E4%B8%9A%E5%92%8C%E7%A4%BE%E4%BC%9A.epub"
+    }
+  },
+  {
+    "name": "有用的逻辑学.epub",
+    "path": "有用的逻辑学.epub",
+    "sha": "2439a0524a583b07ffb6194566a43c16a1bec91c",
+    "size": 256862,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%9C%89%E7%94%A8%E7%9A%84%E9%80%BB%E8%BE%91%E5%AD%A6.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E6%9C%89%E7%94%A8%E7%9A%84%E9%80%BB%E8%BE%91%E5%AD%A6.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/2439a0524a583b07ffb6194566a43c16a1bec91c",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/有用的逻辑学.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%9C%89%E7%94%A8%E7%9A%84%E9%80%BB%E8%BE%91%E5%AD%A6.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/2439a0524a583b07ffb6194566a43c16a1bec91c",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E6%9C%89%E7%94%A8%E7%9A%84%E9%80%BB%E8%BE%91%E5%AD%A6.epub"
+    }
+  },
+  {
+    "name": "本质.epub",
+    "path": "本质.epub",
+    "sha": "642844bed326d8b874a0503820fe9dd714c98e48",
+    "size": 1833529,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%9C%AC%E8%B4%A8.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E6%9C%AC%E8%B4%A8.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/642844bed326d8b874a0503820fe9dd714c98e48",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/本质.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E6%9C%AC%E8%B4%A8.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/642844bed326d8b874a0503820fe9dd714c98e48",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E6%9C%AC%E8%B4%A8.epub"
+    }
+  },
+  {
+    "name": "真相.epub",
+    "path": "真相.epub",
+    "sha": "caf8f0cd0a35529c230ff203a7596ad2cc8a99cf",
+    "size": 4923337,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E7%9C%9F%E7%9B%B8.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E7%9C%9F%E7%9B%B8.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/caf8f0cd0a35529c230ff203a7596ad2cc8a99cf",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/真相.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E7%9C%9F%E7%9B%B8.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/caf8f0cd0a35529c230ff203a7596ad2cc8a99cf",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E7%9C%9F%E7%9B%B8.epub"
+    }
+  },
+  {
+    "name": "码书：编码与解码的战争.epub",
+    "path": "码书：编码与解码的战争.epub",
+    "sha": "42cfbdafa4f2420c773deb9ba204131eff4f0527",
+    "size": 5695774,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E7%A0%81%E4%B9%A6%EF%BC%9A%E7%BC%96%E7%A0%81%E4%B8%8E%E8%A7%A3%E7%A0%81%E7%9A%84%E6%88%98%E4%BA%89.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E7%A0%81%E4%B9%A6%EF%BC%9A%E7%BC%96%E7%A0%81%E4%B8%8E%E8%A7%A3%E7%A0%81%E7%9A%84%E6%88%98%E4%BA%89.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/42cfbdafa4f2420c773deb9ba204131eff4f0527",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/码书：编码与解码的战争.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E7%A0%81%E4%B9%A6%EF%BC%9A%E7%BC%96%E7%A0%81%E4%B8%8E%E8%A7%A3%E7%A0%81%E7%9A%84%E6%88%98%E4%BA%89.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/42cfbdafa4f2420c773deb9ba204131eff4f0527",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E7%A0%81%E4%B9%A6%EF%BC%9A%E7%BC%96%E7%A0%81%E4%B8%8E%E8%A7%A3%E7%A0%81%E7%9A%84%E6%88%98%E4%BA%89.epub"
+    }
+  },
+  {
+    "name": "终身学习.pdf",
+    "path": "终身学习.pdf",
+    "sha": "db4cc8c3141b50df1998dc6edb58a9fec9794a84",
+    "size": 1454796,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0.pdf?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0.pdf",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/db4cc8c3141b50df1998dc6edb58a9fec9794a84",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/终身学习.pdf",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0.pdf?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/db4cc8c3141b50df1998dc6edb58a9fec9794a84",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E7%BB%88%E8%BA%AB%E5%AD%A6%E4%B9%A0.pdf"
+    }
+  },
+  {
+    "name": "给忙碌者的天体物理学[百科超注版].epub",
+    "path": "给忙碌者的天体物理学[百科超注版].epub",
+    "sha": "02d2d2ec36a8daf406d4c3671bfd00d3b85a2b88",
+    "size": 716577,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E7%BB%99%E5%BF%99%E7%A2%8C%E8%80%85%E7%9A%84%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6[%E7%99%BE%E7%A7%91%E8%B6%85%E6%B3%A8%E7%89%88].epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E7%BB%99%E5%BF%99%E7%A2%8C%E8%80%85%E7%9A%84%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6[%E7%99%BE%E7%A7%91%E8%B6%85%E6%B3%A8%E7%89%88].epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/02d2d2ec36a8daf406d4c3671bfd00d3b85a2b88",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/给忙碌者的天体物理学[百科超注版].epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E7%BB%99%E5%BF%99%E7%A2%8C%E8%80%85%E7%9A%84%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6[%E7%99%BE%E7%A7%91%E8%B6%85%E6%B3%A8%E7%89%88].epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/02d2d2ec36a8daf406d4c3671bfd00d3b85a2b88",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E7%BB%99%E5%BF%99%E7%A2%8C%E8%80%85%E7%9A%84%E5%A4%A9%E4%BD%93%E7%89%A9%E7%90%86%E5%AD%A6[%E7%99%BE%E7%A7%91%E8%B6%85%E6%B3%A8%E7%89%88].epub"
+    }
+  },
+  {
+    "name": "老子今注今译（多看弹注版）.epub",
+    "path": "老子今注今译（多看弹注版）.epub",
+    "sha": "39ae8cb871a5029b7818d918d54481a565aef181",
+    "size": 908963,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%80%81%E5%AD%90%E4%BB%8A%E6%B3%A8%E4%BB%8A%E8%AF%91%EF%BC%88%E5%A4%9A%E7%9C%8B%E5%BC%B9%E6%B3%A8%E7%89%88%EF%BC%89.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E8%80%81%E5%AD%90%E4%BB%8A%E6%B3%A8%E4%BB%8A%E8%AF%91%EF%BC%88%E5%A4%9A%E7%9C%8B%E5%BC%B9%E6%B3%A8%E7%89%88%EF%BC%89.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/39ae8cb871a5029b7818d918d54481a565aef181",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/老子今注今译（多看弹注版）.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%80%81%E5%AD%90%E4%BB%8A%E6%B3%A8%E4%BB%8A%E8%AF%91%EF%BC%88%E5%A4%9A%E7%9C%8B%E5%BC%B9%E6%B3%A8%E7%89%88%EF%BC%89.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/39ae8cb871a5029b7818d918d54481a565aef181",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E8%80%81%E5%AD%90%E4%BB%8A%E6%B3%A8%E4%BB%8A%E8%AF%91%EF%BC%88%E5%A4%9A%E7%9C%8B%E5%BC%B9%E6%B3%A8%E7%89%88%EF%BC%89.epub"
+    }
+  },
+  {
+    "name": "聪明反被聪明误：有一种缺点叫聪明.epub",
+    "path": "聪明反被聪明误：有一种缺点叫聪明.epub",
+    "sha": "04d02ec227ff885b620b8c6a19a0dfeb34ad5ca0",
+    "size": 231777,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%81%AA%E6%98%8E%E5%8F%8D%E8%A2%AB%E8%81%AA%E6%98%8E%E8%AF%AF%EF%BC%9A%E6%9C%89%E4%B8%80%E7%A7%8D%E7%BC%BA%E7%82%B9%E5%8F%AB%E8%81%AA%E6%98%8E.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E8%81%AA%E6%98%8E%E5%8F%8D%E8%A2%AB%E8%81%AA%E6%98%8E%E8%AF%AF%EF%BC%9A%E6%9C%89%E4%B8%80%E7%A7%8D%E7%BC%BA%E7%82%B9%E5%8F%AB%E8%81%AA%E6%98%8E.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/04d02ec227ff885b620b8c6a19a0dfeb34ad5ca0",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/聪明反被聪明误：有一种缺点叫聪明.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%81%AA%E6%98%8E%E5%8F%8D%E8%A2%AB%E8%81%AA%E6%98%8E%E8%AF%AF%EF%BC%9A%E6%9C%89%E4%B8%80%E7%A7%8D%E7%BC%BA%E7%82%B9%E5%8F%AB%E8%81%AA%E6%98%8E.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/04d02ec227ff885b620b8c6a19a0dfeb34ad5ca0",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E8%81%AA%E6%98%8E%E5%8F%8D%E8%A2%AB%E8%81%AA%E6%98%8E%E8%AF%AF%EF%BC%9A%E6%9C%89%E4%B8%80%E7%A7%8D%E7%BC%BA%E7%82%B9%E5%8F%AB%E8%81%AA%E6%98%8E.epub"
+    }
+  },
+  {
+    "name": "能力陷阱.epub",
+    "path": "能力陷阱.epub",
+    "sha": "943f8b5d3744f722ab6b68cd899daa7fddb1559a",
+    "size": 1563406,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%83%BD%E5%8A%9B%E9%99%B7%E9%98%B1.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E8%83%BD%E5%8A%9B%E9%99%B7%E9%98%B1.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/943f8b5d3744f722ab6b68cd899daa7fddb1559a",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/能力陷阱.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%83%BD%E5%8A%9B%E9%99%B7%E9%98%B1.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/943f8b5d3744f722ab6b68cd899daa7fddb1559a",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E8%83%BD%E5%8A%9B%E9%99%B7%E9%98%B1.epub"
+    }
+  },
+  {
+    "name": "菜根谭 - 为人处事大全(文白).txt",
+    "path": "菜根谭 - 为人处事大全(文白).txt",
+    "sha": "d1ab3344a9eb23f5eb3c4c72961d3231e8aceecf",
+    "size": 316509,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%8F%9C%E6%A0%B9%E8%B0%AD%20-%20%E4%B8%BA%E4%BA%BA%E5%A4%84%E4%BA%8B%E5%A4%A7%E5%85%A8(%E6%96%87%E7%99%BD).txt?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E8%8F%9C%E6%A0%B9%E8%B0%AD%20-%20%E4%B8%BA%E4%BA%BA%E5%A4%84%E4%BA%8B%E5%A4%A7%E5%85%A8(%E6%96%87%E7%99%BD).txt",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/d1ab3344a9eb23f5eb3c4c72961d3231e8aceecf",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/菜根谭 - 为人处事大全(文白).txt",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%8F%9C%E6%A0%B9%E8%B0%AD%20-%20%E4%B8%BA%E4%BA%BA%E5%A4%84%E4%BA%8B%E5%A4%A7%E5%85%A8(%E6%96%87%E7%99%BD).txt?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/d1ab3344a9eb23f5eb3c4c72961d3231e8aceecf",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E8%8F%9C%E6%A0%B9%E8%B0%AD%20-%20%E4%B8%BA%E4%BA%BA%E5%A4%84%E4%BA%8B%E5%A4%A7%E5%85%A8(%E6%96%87%E7%99%BD).txt"
+    }
+  },
+  {
+    "name": "行为设计学：打造峰值体验.epub",
+    "path": "行为设计学：打造峰值体验.epub",
+    "sha": "9c376828121fcc80f5f80d2ab6277da0849193b7",
+    "size": 803296,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%A1%8C%E4%B8%BA%E8%AE%BE%E8%AE%A1%E5%AD%A6%EF%BC%9A%E6%89%93%E9%80%A0%E5%B3%B0%E5%80%BC%E4%BD%93%E9%AA%8C.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E8%A1%8C%E4%B8%BA%E8%AE%BE%E8%AE%A1%E5%AD%A6%EF%BC%9A%E6%89%93%E9%80%A0%E5%B3%B0%E5%80%BC%E4%BD%93%E9%AA%8C.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/9c376828121fcc80f5f80d2ab6277da0849193b7",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/行为设计学：打造峰值体验.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%A1%8C%E4%B8%BA%E8%AE%BE%E8%AE%A1%E5%AD%A6%EF%BC%9A%E6%89%93%E9%80%A0%E5%B3%B0%E5%80%BC%E4%BD%93%E9%AA%8C.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/9c376828121fcc80f5f80d2ab6277da0849193b7",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E8%A1%8C%E4%B8%BA%E8%AE%BE%E8%AE%A1%E5%AD%A6%EF%BC%9A%E6%89%93%E9%80%A0%E5%B3%B0%E5%80%BC%E4%BD%93%E9%AA%8C.epub"
+    }
+  },
+  {
+    "name": "说真话.epub",
+    "path": "说真话.epub",
+    "sha": "d42dfd60e38f67685129dad96f45b8b2b6b43d88",
+    "size": 301102,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%AF%B4%E7%9C%9F%E8%AF%9D.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E8%AF%B4%E7%9C%9F%E8%AF%9D.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/d42dfd60e38f67685129dad96f45b8b2b6b43d88",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/说真话.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%AF%B4%E7%9C%9F%E8%AF%9D.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/d42dfd60e38f67685129dad96f45b8b2b6b43d88",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E8%AF%B4%E7%9C%9F%E8%AF%9D.epub"
+    }
+  },
+  {
+    "name": "超级合作者.epub",
+    "path": "超级合作者.epub",
+    "sha": "87cf3efd6cef2d252a64e9cce9acc739c32c2ef8",
+    "size": 990366,
+    "url": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%B6%85%E7%BA%A7%E5%90%88%E4%BD%9C%E8%80%85.epub?ref=master",
+    "html_url": "https://github.com/devopsmi/eBooks/blob/master/%E8%B6%85%E7%BA%A7%E5%90%88%E4%BD%9C%E8%80%85.epub",
+    "git_url": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/87cf3efd6cef2d252a64e9cce9acc739c32c2ef8",
+    "download_url": "https://raw.githubusercontent.com/devopsmi/eBooks/master/超级合作者.epub",
+    "type": "file",
+    "_links": {
+      "self": "https://api.github.com/repos/devopsmi/eBooks/contents/%E8%B6%85%E7%BA%A7%E5%90%88%E4%BD%9C%E8%80%85.epub?ref=master",
+      "git": "https://api.github.com/repos/devopsmi/eBooks/git/blobs/87cf3efd6cef2d252a64e9cce9acc739c32c2ef8",
+      "html": "https://github.com/devopsmi/eBooks/blob/master/%E8%B6%85%E7%BA%A7%E5%90%88%E4%BD%9C%E8%80%85.epub"
+    }
+  }
+]

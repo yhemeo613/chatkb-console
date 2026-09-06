@@ -1,0 +1,55 @@
+// ============================================================
+// 设计令牌 —— 「工作台工具风」
+// 去 AI 味三原则：扁平细边框（拒绝阴影+大圆角）、单强调色（拒绝渐变）、
+// 高信息密度（等宽数字 + 小型字距标签）
+// ============================================================
+
+// 品牌色（微信绿，唯一强调色）
+@green: #07c160;
+@green-dark: #06934e;
+@green-bg: #eef8f2;
+
+// 中性色
+@bg: #f6f7f9;            // 页面底色
+@panel: #ffffff;         // 面板
+@border: #e3e7ec;        // 主分隔线
+@border-strong: #d5dae1; // 强分隔
+@hover-bg: #f3f5f7;
+
+// 文字
+@text-1: #1b2430;        // 主
+@text-2: #5b6672;        // 次
+@text-3: #98a2ae;        // 弱
+
+// 语义色（状态用，不做装饰）
+@danger: #d93026;
+@warn: #b26a00;
+@ok: #0a8f4c;
+@info: #1668dc;
+
+// 形状
+@radius: 6px;
+@radius-lg: 10px;
+
+// 字体
+// 中文正文系统栈：Ant Design 官方规范的有意 override（见 DESIGN-SPEC.md §4）
+@font-stack: -apple-system, "PingFang SC", "Microsoft YaHei", "Segoe UI", sans-serif;
+// 展示层：DIN 系工业数字字体（Win10+ 内置，离线可用）
+@display-font: "Bahnschrift", "Segoe UI", Consolas, "Courier New", monospace;
+@num-font: @display-font;
+
+// 字阶（AntD 规范：主字号 14，行高 1.5，段距 1 倍字号）
+@fs-xs: 12px;
+@fs-sm: 13px;
+@fs-base: 14px;
+@fs-lg: 16px;
+@fs-xl: 20px;
+
+// 间距三档
+@sp-1: 8px;
+@sp-2: 16px;
+@sp-3: 24px;
+
+// 布局
+@sidebar-w: 200px;
+@header-h: 52px;
